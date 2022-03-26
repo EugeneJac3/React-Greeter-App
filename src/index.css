@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+/* this is for learning react not real code life */
+h1 {
+  color: red;
+}
+
+.greeting {
+  color: blue;
+}
